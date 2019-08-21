@@ -12,4 +12,4 @@ V= { C1,...,Cn }
 E= { (Ci,Cj) : i,j =1...n , i!=j }  (Celli and Cellj are neighbors)
 
 Example graph:
-![Graph](/Cells_graph.png)
+![Graph](/Cells_graph_with_timing.png)
