@@ -2,7 +2,7 @@
 	1. Cell index, from 1 to n, where n is the total number of cells in the simulation
 	2. Cell position in a 2 diamentional plane (x,y)
 	3. Time of Nucleation
-	3. Time of death
+	4. Time of death
 	
 *The time of death, taken from the experiment, will be used for verification purpose only.
 	
