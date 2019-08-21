@@ -16,4 +16,4 @@ E= { (Ci,Cj) : i,j =1...n , i!=j }  (Celli and Cellj are neighbors)
 
 Example graph:
 
-![Graph](/Cells_graph2.png)
+![Graph](/Cells_graph4.png)
